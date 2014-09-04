@@ -1,6 +1,8 @@
 #文字直播程序 Word Live 
 本开源程序使用F# mongodb
 
+CometChatInstall.rar 为打包程序,可直接使用
+
 mongo目录为数据库
 
  	第一次请执行install.bat来安装  
