@@ -1,5 +1,5 @@
 #文字直播程序 Word Live 
-本开源程序使用F# mongodb
+本开源程序使用F# mongodb ,特性:长连接comet 异步async
 
 CometChatInstall.rar 为打包程序,可直接使用
 
