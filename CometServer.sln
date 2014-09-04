@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.21901.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CometServer", "CometServer\CometServer.csproj", "{BB3E1F27-EFC0-4D5A-9965-632D05BA313B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Comet", "Comet\Comet.fsproj", "{DDDD3C1F-22D0-4088-9FFB-BED18909E40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3E1F27-EFC0-4D5A-9965-632D05BA313B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3E1F27-EFC0-4D5A-9965-632D05BA313B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3E1F27-EFC0-4D5A-9965-632D05BA313B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3E1F27-EFC0-4D5A-9965-632D05BA313B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDD3C1F-22D0-4088-9FFB-BED18909E40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDD3C1F-22D0-4088-9FFB-BED18909E40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDD3C1F-22D0-4088-9FFB-BED18909E40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDD3C1F-22D0-4088-9FFB-BED18909E40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
